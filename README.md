@@ -1,1 +1,1 @@
-# todolist
+This is the todo project
